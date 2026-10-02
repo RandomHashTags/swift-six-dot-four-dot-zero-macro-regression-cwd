@@ -1,0 +1,3 @@
+message Hoopla1 {
+    uint32 one = 1;
+}
